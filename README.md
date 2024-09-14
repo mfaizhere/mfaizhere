@@ -1,5 +1,7 @@
 # 💫 About Me:
-My name is Muhammad faiz. I am front-end developer and expertise in HTML, CSS Javscript<br>MySQL and react.js and I am currently working in Company CodeRivals. I am currently learning and trying to deep dive in the react.js and then move to next.js
+I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor's degree at the Karachi Institute of Economics and Technology. I have gained experience through various internships and roles, including working as a Marketing analyst at Jetzy, a travel company. My last position was as a Sales Executive at a reputable organization, where I worked for 1.2 years. Presently, I am a Junior Front-End Developer at CodeRivals Software Company, leveraging my expertise in HTML, CSS3, JavaScript, React.js, and MySQL.
+
+Let's connect: muhammadfaizkashif@gmail.com
 
 
 ## 🌐 Socials:
