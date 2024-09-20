@@ -3,7 +3,7 @@ I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachel
 
 Let's connect: muhammadfaizkashif@gmail.com
 
-## My Projects:
+# My Projects:
 https://palindrome-nu.vercel.app/
 https://statistics-calculator-puce.vercel.app/
 
