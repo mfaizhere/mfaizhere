@@ -1,7 +1,9 @@
 # 💫 About Me:
-I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor's degree at the Karachi Institute of Economics and Technology. I have gained experience through various internships and roles, including working as a Marketing analyst at Jetzy, a travel company. My last position was as a Sales Executive at a reputable organization, where I worked for 1.2 years. Presently, I am a Junior Front-End Developer at CodeRivals Software Company, leveraging my expertise in HTML, CSS3, JavaScript, React.js, and MySQL.
+I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor's degree at the Karachi Institute of Economics and Technology. I’m a MERN Stack Developer with three years of experience building responsive and user-friendly web applications. I work with MongoDB, Express.js, React.js, and Node.js to create complete solutions, from sleek front-end designs to powerful back-end systems. I focus on writing clear, simple code that ensures your app runs smoothly and efficiently. Whether it’s designing interfaces or optimizing databases, I take pride in delivering work that meets your needs and exceeds expectations.
 
-Let's connect: muhammadfaizkashif@gmail.com
+I believe communication is key to successful projects. I make it a point to fully understand your ideas and goals so we’re always on the same page. Throughout the project, I’ll keep you updated and ensure your feedback is included every step of the way. If you’re looking for a developer who values teamwork and delivers high-quality results, feel free to react out to me!
+
+<a href="mailto:muhammadfaizkashif@gmail.com">Click here</a>
 
 # My Projects:
 https://palindrome-nu.vercel.app/                                                                                                                                       
