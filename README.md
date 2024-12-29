@@ -3,7 +3,7 @@ I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachel
 
 I believe communication is key to successful projects. I make it a point to fully understand your ideas and goals so we’re always on the same page. Throughout the project, I’ll keep you updated and ensure your feedback is included every step of the way. If you’re looking for a developer who values teamwork and delivers high-quality results, feel free to react out to me!
 
-<a href="mailto:muhammadfaizkashif@gmail.com">Click here</a>
+Let's connect <a href="mailto:muhammadfaizkashif@gmail.com">Click here </a>
 
 # My Projects:
 https://palindrome-nu.vercel.app/                                                                                                                                       
