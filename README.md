@@ -1,9 +1,13 @@
 # 💫 About Me:
-I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor's degree at the Karachi Institute of Economics and Technology. I’m a MERN Stack Developer with three years of experience building responsive and user-friendly web applications. I work with MongoDB, Express.js, React.js, and Node.js to create complete solutions, from sleek front-end designs to powerful back-end systems. I focus on writing clear, simple code that ensures your app runs smoothly and efficiently. Whether it’s designing interfaces or optimizing databases, I take pride in delivering work that meets your needs and exceeds expectations.
+I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor's degree at the Karachi Institute of Economics and Technology. I’m a MERN Stack Developer with one year of experience building responsive and user-friendly web applications. I work with MongoDB, Express.js, React.js, and Node.js to create complete solutions, from responsive front-end designs to back-end systems. I focus on writing clear, simple code that ensures your app runs smoothly and efficiently. Whether it’s designing interfaces or optimizing databases, I take pride in delivering work that meets your needs and exceeds expectations.
 
-I believe communication is key to successful projects. I make it a point to fully understand your ideas and goals so we’re always on the same page. Throughout the project, I’ll keep you updated and ensure your feedback is included every step of the way. If you’re looking for a developer who values teamwork and delivers high-quality results, feel free to react out to me!
+I believe communication is key to successful projects. I make it a point to fully understand your ideas and goals so we’re always on the same page. Throughout the project, I keep clients updated and ensure their feedback is included every step of the way. If you’re looking for a developer who values teamwork and delivers high-quality results, feel free to react out to me!
 
-Let's connect <a href="mailto:muhammadfaizkashif@gmail.com">Click here </a>
+Let's connect <a href="mailto:muhammadfaizkashif@gmail.com">Click here to auto redirect for email</a>
+<details>
+  <summary>Or Click here reveal email</summary>
+  <p>muhammadfaizkashif@gmail.com</p>
+</details>
 
 # My Projects:
 https://palindrome-nu.vercel.app/                                                                                                                                       
