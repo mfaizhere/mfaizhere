@@ -10,10 +10,14 @@ Let's connect <a href="mailto:muhammadfaizkashif@gmail.com">Click here to auto r
 </details>
 
 # My Projects:
-https://palindrome-nu.vercel.app/                                                                                                                                       
+https://palindrome-nu.vercel.app/  
+<br>                                                                                                                                     
 https://statistics-calculator-puce.vercel.app/
+<br>
 https://todo-web-app-ashy.vercel.app/
+<br>
 https://doctor-appointment-orcin.vercel.app/
+<br>
 https://next-full-stack-ecommerce-psi.vercel.app/ (Ecommerce Web app on React + Next.js for client)
 
 ## 🌐 Socials:
