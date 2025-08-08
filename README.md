@@ -1,11 +1,9 @@
 # 💫 About Me:
-I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor's degree at the Karachi Institute of Economics and Technology. I’m a MERN Stack Developer with one year of experience building responsive and user-friendly web applications. I work with MongoDB, Express.js, React.js, and Node.js to create complete solutions, from responsive front-end designs to back-end systems. I focus on writing clear, simple code that ensures your app runs smoothly and efficiently. Whether it’s designing interfaces or optimizing databases, I take pride in delivering work that meets your needs and exceeds expectations.
-
-I believe communication is key to successful projects. I make it a point to fully understand your ideas and goals so we’re always on the same page. Throughout the project, I keep clients updated and ensure their feedback is included every step of the way. If you’re looking for a developer who values teamwork and delivers high-quality results, feel free to react out to me!
+I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor's degree at the Karachi Institute of Economics and Technology. I’m a Full Stack Developer with over one year of experience building responsive and fully functional web applications. I have hands-on experience with React.js and TypeScript on the frontend, MongoDB, RDS (PostgreSQL), and DynamoDB for backend databases, and Express.js with Node.js on the backend. I follow the DRY coding principle, focusing on writing clear, reusable, and simple code that ensures applications run smoothly and efficiently. I am looking forward for collaborating feel free to reach out 
 
 Let's connect <a href="mailto:muhammadfaizkashif@gmail.com">Click here to auto redirect for email</a>
 <details>
-  <summary>Or Click here reveal email</summary>
+  <summary>Click here for email</summary>
   <p>muhammadfaizkashif@gmail.com</p>
 </details>
 
