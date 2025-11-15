@@ -20,6 +20,8 @@ https://next-full-stack-ecommerce-psi.vercel.app/ (Ecommerce Web app on React + 
 https://common-secs.vercel.app/ (Fully CRUD application using React.js , Node.js + Express.Js, MongoDB for client, deployed on AWS EC2)
 <br>
 https://www.app.taskbound.io (A blockchain-based bounty and campaign platform where users create crypto projects and marketing campaigns and users complete tasks to earn rewards and get payouts in crypto currencies, fully CRUD MERN stack application)
+<br>
+https://247seating.com (Restaurant Table Reservation System, where multiple users can register their restaurant and handle table reservations, made on Embedded JavaScript + Express.js)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadfaizkashif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_faiz07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadfaiz07) 
