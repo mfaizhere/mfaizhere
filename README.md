@@ -15,7 +15,7 @@ https://todo-web-app-ashy.vercel.app/
 <br>
 https://doctor-appointment-orcin.vercel.app/
 <br>
-https://next-full-stack-ecommerce-psi.vercel.app/ (Ecommerce Web app on React + Next.js and Node.js for Upwork client)
+https://suqhur.com (Ecommerce Web appicaiton on Next.js and express.js)
 <br>
 https://common-secs.vercel.app/ (Fully CRUD application using React.js , Node.js + Express.Js, MongoDB for client, deployed on AWS EC2)
 <br>
