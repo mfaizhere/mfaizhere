@@ -17,9 +17,11 @@ https://doctor-appointment-orcin.vercel.app/
 <br>
 https://suqhur.com (Ecommerce Web appicaiton on Next.js and express.js)
 <br>
-https://common-secs.vercel.app/ (Fully CRUD application using React.js , Node.js + Express.Js, MongoDB for client, deployed on AWS EC2)
+https://main.d3u5jo9ow65mtl.amplifyapp.com (A marketplace application where users can create missions and providers can offer services within their respective categories. Providers can place bids on user-created missions and also directly book customers through an integrated calendar system. The platform features a voucher-based discount system, real-time messaging for bookings and communication using Socket.io, and Stripe integration for secure payments. The project was built using React Native with TypeScript for the cross-platform mobile application, React for the web application, Node.js for the backend, and MongoDB as the database.)
 <br>
-https://www.app.taskbound.io (A blockchain-based bounty and campaign platform where users create crypto projects and marketing campaigns and users complete tasks to earn rewards and get payouts in crypto currencies, fully CRUD MERN stack application)
+https://common-secs.vercel.app/ (Fully CRUD application using React.js , Node.js + Express.Js, MongoDB for client, deployed on AWS EC2 and stripe integration for payments)
+<br>
+https://www.app.taskbound.io (A blockchain-based bounty and campaign platform where users create crypto projects and marketing campaigns and users complete tasks to earn rewards and get payouts in crypto currencies, realtime payments through wallets. fully CRUD MERN stack application)
 <br>
 https://247seating.com (Restaurant Table Reservation System, where multiple users can register their restaurant and handle table reservations, made on Embedded JavaScript + Express.js)
 
