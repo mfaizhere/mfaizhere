@@ -1,50 +1,70 @@
-# 💫 About Me:
-I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor’s degree at the Karachi Institute of Economics and Technology. I’m a Full Stack Developer with 2 years of experience in building responsive, scalable, and fully functional web applications. My skill set includes React.js, React Native, and Next.js with TypeScript on the frontend, along with Node.js, Express.js, and MongoDB on the backend. I follow the DRY coding principle and focus on writing clean, reusable, and maintainable code to ensure optimal performance and efficiency. I’m always open to collaboration—feel free to reach out.
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Full%20stack%20Developer&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Mohammad%20Faiz&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=gradient"  />
+</div>
 
-Let's connect <a href="mailto:muhammadfaizkashif@gmail.com">Click here to auto redirect for email</a>
-<details>
-  <summary>Click here for email</summary>
-  <p>muhammadfaizkashif@gmail.com</p>
-</details>
+###
 
-# My Projects:
-https://palindrome-nu.vercel.app/                                                                                                                                      
-https://statistics-calculator-puce.vercel.app/
-<br>
-https://todo-web-app-ashy.vercel.app/
-<br>
-https://doctor-appointment-orcin.vercel.app/
-<br>
-https://suqhur.com (Ecommerce Web appicaiton on Next.js and express.js)
-<br>
-https://main.d3u5jo9ow65mtl.amplifyapp.com (A marketplace application where users can create missions and providers can offer services within their respective categories. Providers can place bids on user-created missions and also directly book customers through an integrated calendar system. The platform features a voucher-based discount system, real-time messaging for bookings and communication using Socket.io, and Stripe integration for secure payments. The project was built using React Native with TypeScript for the cross-platform mobile application, React for the web application, Node.js for the backend, and MongoDB as the database.)
-<br>
-https://common-secs.vercel.app/ (Fully CRUD application using React.js , Node.js + Express.Js, MongoDB for client, deployed on AWS EC2 and stripe integration for payments)
-<br>
-https://www.app.taskbound.io (A blockchain-based bounty and campaign platform where users create crypto projects and marketing campaigns and users complete tasks to earn rewards and get payouts in crypto currencies, realtime payments through wallets. fully CRUD MERN stack application)
-<br>
-https://247seating.com (Restaurant Table Reservation System, where multiple users can register their restaurant and handle table reservations, made on Embedded JavaScript + Express.js)
+<p align="center">I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor’s degree at the Karachi Institute of Economics and Technology. I’m a Full Stack Developer with 2 years of experience in building responsive, scalable, and fully functional web applications. My skill set includes React.js, React Native, and Next.js with TypeScript on the frontend, along with Node.js, Express.js, and MongoDB on the backend. I follow the DRY coding principle and focus on writing clean, reusable, and maintainable code to ensure optimal performance and efficiency. I’m always open to collaboration—feel free to reach out.</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammadfaizkashif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_faiz07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadfaiz07) 
+###
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mfaizhere&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mfaizhere&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizhere&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo"  />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mfaizhere&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammadfaiz07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mfaizhere&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=mfaizhere&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">My Projects:</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">- https://palindrome-nu.vercel.app/<br>- https://statistics-calculator-puce.vercel.app/<br>- https://todo-web-app-ashy.vercel.app/<br>- https://doctor-appointment-orcin.vercel.app/<br>- https://suqhur.com (Ecommerce Web appicaiton on Next.js and express.js)<br>- https://main.d3u5jo9ow65mtl.amplifyapp.com (A marketplace application where users can create missions and providers can offer services within their respective categories. Providers can place bids on user-created missions and also directly book customers through an integrated calendar system. The platform features a voucher-based discount system, real-time messaging for bookings and communication using Socket.io, and Stripe integration for secure payments. The project was built using React Native with TypeScript for the cross-platform mobile application, React for the web application, Node.js for the backend, and MongoDB as the database.)<br>- https://common-secs.vercel.app/ (Fully CRUD application using React.js , Node.js + Express.Js, MongoDB for client, deployed on AWS EC2 and stripe integration for payments)<br>- https://www.app.taskbound.io (A blockchain-based bounty and campaign platform where users create crypto projects and marketing campaigns and users complete tasks to earn rewards and get payouts in crypto currencies, realtime payments through wallets. fully CRUD MERN stack application)<br>- https://247seating.com (Restaurant Table Reservation System, where multiple users can register their restaurant and handle table reservations, made on Embedded JavaScript + Express.js)</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfaizhere/mfaizhere/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfaizhere/mfaizhere/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mfaizhere/mfaizhere/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfaizhere&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaizhere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mfaizhere.mfaizhere&"  />
+</div>
+
+###
