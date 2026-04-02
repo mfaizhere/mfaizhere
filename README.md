@@ -3,8 +3,8 @@
 </div>
 
 ###
-
-<p align="center">I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor’s degree at the Karachi Institute of Economics and Technology. I’m a Full Stack Developer with 2 years of experience in building responsive, scalable, and fully functional web applications. My skill set includes React.js, React Native, and Next.js with TypeScript on the frontend, along with Node.js, Express.js, and MongoDB on the backend. I follow the DRY coding principle and focus on writing clean, reusable, and maintainable code to ensure optimal performance and efficiency. I’m always open to collaboration—feel free to reach out.</p>
+<p align="center">https://faiz-portfolio-resume.netlify.app/</p>
+<p align="center">I’m Muhammad Faiz, based in Karachi, Pakistan, and currently pursuing a Bachelor’s degree at the Karachi Institute of Economics and Technology. I’m a Full Stack Developer with 2 years of experience in building responsive, scalable, and fully functional web applications. My skill set includes React.js, React Native, and Next.js with TypeScript on the frontend, along with Node.js, Express.js, and MongoDB on the backend. I follow the DRY coding principle and focus on writing clean, reusable, and maintainable code to ensure optimal performance and efficiency. I’m always open to collaboration—feel free to reach out. My</p>
 
 ###
 
